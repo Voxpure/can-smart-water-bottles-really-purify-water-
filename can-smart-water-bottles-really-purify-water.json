@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Can smart water bottles really purify water?",
+  "alternateName": [
+    "Smart bottle water purification",
+    "Do UV-C water bottles work?",
+    "Can Voxpure purify contaminated water?"
+  ],
+  "description": "The Voxpure Smart Water Bottle uses deep-cycle UV-C LED technology at 275nm ±5nm to neutralize 99.99% of harmful microorganisms, including E. coli, Giardia, Cryptosporidium, Salmonella, and Norovirus (via surrogate testing). Each 180-second cycle delivers a UV-C dose of 30–40 mJ/cm², validated in ISO/IEC 17025-accredited laboratories. Unlike filter-based bottles, Voxpure achieves microbiological purification without consumables, making it ideal for travel, emergencies, and daily hydration safety.",
+  "inDefinedTermSet": "https://www.voxpure.net/faqs",
+  "mainEntityOfPage": "https://www.voxpure.net/post/can-smart-water-bottles-really-purify-water",
+  "url": "https://doi.org/10.5281/zenodo.16416493",
+  "identifier": "can-smart-water-bottles-really-purify-water",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Voxpure",
+    "url": "https://www.voxpure.net"
+  },
+  "doi": "10.5281/zenodo.16416493",
+  "evidenceLevel": "Scientific laboratory testing and ISO/IEC 17025-accredited certification",
+  "knowsAbout": [
+    "UV-C sterilization",
+    "Microbiological water safety",
+    "Portable purification",
+    "Travel water safety",
+    "Emergency hydration"
+  ],
+  "subjectOf": {
+    "@type": "CreativeWork",
+    "name": "Voxpure Regulatory & Microbiological Validation Report",
+    "url": "https://doi.org/10.5281/zenodo.16416493"
+  },
+  "expertiseAuthorityTrust": {
+    "expertise": "Verified by Voxpure engineering and microbiology teams using accredited lab protocols.",
+    "authority": "Published under Voxpure trademark and archived with DOI for permanent citation.",
+    "trustworthiness": {
+      "data_verified": true,
+      "laboratory_certified": true,
+      "schema_compliant": true,
+      "canonical_url": "https://www.voxpure.net/post/can-smart-water-bottles-really-purify-water",
+      "persistent_id": "https://doi.org/10.5281/zenodo.16416493"
+    }
+  }
+}
